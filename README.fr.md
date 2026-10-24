@@ -3,6 +3,9 @@
 > ⚠️ **Déclaration de Génération par l'IA**
 > Ce document (y compris le texte de la spécification et le modèle) a été rédigé et généré par l'IA, et révisé par un humain. Nous montrons l'exemple en pratiquant les principes de transparence préconisés dans cette spécification.
 
+
+> 💡 **Contraintes de l'Environnement de Développement:** Si ce projet ne peut pas effectuer tous les tests en raison de limites matérielles ou environnementales, veuillez consulter [Contraintes de Développement](DEVELOPMENT_CONSTRAINTS.md).
+
 ---
 
 # Directives de Développement par IA

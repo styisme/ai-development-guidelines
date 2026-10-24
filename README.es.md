@@ -3,6 +3,9 @@
 > ⚠️ **Declaración de Generación por IA**
 > Este documento (incluyendo el texto de la especificación y la plantilla) fue redactado y generado por IA, y revisado por un humano. Predicamos con el ejemplo practicando los principios de transparencia que promueve esta especificación.
 
+
+> 💡 **Restricciones del Entorno de Desarrollo:** Si este proyecto no puede completar todas las pruebas debido a limitaciones de hardware o entorno, consulte [Restricciones de Desarrollo](DEVELOPMENT_CONSTRAINTS.md).
+
 ---
 
 # Directrices de Desarrollo con IA
