@@ -1,10 +1,9 @@
-**🌐 言語 / Language：** [中文](README.md) | [English](README.en.md) | 日本語 | [Español](README.es.md) | [Français](README.fr.md)
+**🌐 Language：** [中文](README.md) | [English](README.en.md) | **日本語** | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [한국어](README.ko.md) | [Русский](README.ru.md)
 
 > ⚠️ **AI 生成に関する声明**
 > この文書（仕様書とテンプレートを含む）は AI によって起草・生成され、人間によるレビューを経て確定されました。私たちは自ら規範を守り、透明性の原則を実践します。
 
-
-> 💡 **開発環境の制約：** ハードウェアや環境の制限により全量テストを完了できない場合、[開発環境制約の説明](DEVELOPMENT_CONSTRAINTS.md) を参照してください。
+> 💡 **開発環境の制約：** ハードウェアや環境の制限により全量テストを完了できない場合、[開発環境制約の説明](DEVELOPMENT_CONSTRAINTS.ja.md) を参照してください。
 
 ---
 

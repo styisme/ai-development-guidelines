@@ -1,0 +1,22 @@
+name: 功能建议
+description: 提议新增一条规范
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "感谢你为规范添砖加瓦。"
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 实际场景
+      description: 请描述你在实际开发中遇到的场景，为什么现有规范无法覆盖？
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议条款
+      description: 你希望新增什么条款？
+    validations:
+      required: true

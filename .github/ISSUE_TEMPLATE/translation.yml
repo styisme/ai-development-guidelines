@@ -1,0 +1,31 @@
+name: 翻译纠错 / 新增语言
+description: 修正翻译错误，或新增一种语言
+title: "[Translation]: "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: "感谢你帮助规范走向国际化。"
+  - type: dropdown
+    id: action
+    attributes:
+      label: 类型
+      options:
+        - 修正现有翻译错误
+        - 新增一种语言
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: 语言
+      placeholder: "例如：Italiano, Português"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 详细说明
+      description: 如果是纠错，请指明文件和行号；如果是新增，请说明你是否能提供完整翻译。
+    validations:
+      required: true

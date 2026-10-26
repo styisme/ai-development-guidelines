@@ -1,3 +1,7 @@
+**🌐 Language：** **中文** | [English](DEVELOPMENT_CONSTRAINTS.en.md) | [日本語](DEVELOPMENT_CONSTRAINTS.ja.md) | [Español](DEVELOPMENT_CONSTRAINTS.es.md) | [Français](DEVELOPMENT_CONSTRAINTS.fr.md) | [Deutsch](DEVELOPMENT_CONSTRAINTS.de.md) | [한국어](DEVELOPMENT_CONSTRAINTS.ko.md) | [Русский](DEVELOPMENT_CONSTRAINTS.ru.md)
+
+---
+
 # 开发环境约束与诚实声明模板
 
 > 复制此模板到你的项目，按实际情况勾选并填写。本文档说明本仓库的实际开发条件与责任边界。

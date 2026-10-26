@@ -1,0 +1,27 @@
+name: 规范问题报告
+description: 报告规范中的矛盾、歧义或错误
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "感谢你指出规范中的问题。"
+  - type: textarea
+    id: location
+    attributes:
+      label: 问题位置
+      description: 请指明是哪个语言的哪个条款（如：中文版 2.2 条）。
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: 请描述该条款的矛盾、歧义或错误之处。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 修改建议
+      description: 如果你有更好的表述，请写在这里。

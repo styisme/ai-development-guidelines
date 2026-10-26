@@ -1,8 +1,7 @@
-**🌐 语言 / Language：** 中文 | [English](README.en.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Français](README.fr.md)
+**🌐 Language：** **中文** | [English](README.en.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [한국어](README.ko.md) | [Русский](README.ru.md)
 
 > ⚠️ **AI 生成声明**
 > 本文档（含规范文本与模板）由 AI 起草生成，并经人工审阅定稿。我们以身作则，践行本规范所倡导的透明度原则。
-
 
 > 💡 **开发环境约束：** 若本项目受硬件或环境限制未能完成全量测试，请查看 [开发环境约束说明](DEVELOPMENT_CONSTRAINTS.md)。
 
